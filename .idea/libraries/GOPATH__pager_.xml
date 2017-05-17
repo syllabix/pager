@@ -1,0 +1,75 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;pager&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../test-project" />
+      <root url="file://$PROJECT_DIR$/../../../labix.org" />
+      <root url="file://$PROJECT_DIR$/../../../tomweb" />
+      <root url="file://$PROJECT_DIR$/../../../googlemaps.github.io" />
+      <root url="file://$PROJECT_DIR$/../../../julianallen" />
+      <root url="file://$PROJECT_DIR$/../../../costafile" />
+      <root url="file://$PROJECT_DIR$/../../../harvestbox" />
+      <root url="file://$PROJECT_DIR$/../../../klynt-api" />
+      <root url="file://$PROJECT_DIR$/../../../theokatzman" />
+      <root url="file://$PROJECT_DIR$/../../../what-to-eat" />
+      <root url="file://$PROJECT_DIR$/../../../playground" />
+      <root url="file://$PROJECT_DIR$/../../../conflux" />
+      <root url="file://$PROJECT_DIR$/../../../launchpad.net" />
+      <root url="file://$PROJECT_DIR$/../../../stash.cqlcorp.net" />
+      <root url="file://$PROJECT_DIR$/../../../katzman" />
+      <root url="file://$PROJECT_DIR$/../../../android-gomobile" />
+      <root url="file://$PROJECT_DIR$/../../../rpc" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../labs-project-tracker" />
+      <root url="file://$PROJECT_DIR$/../../../static-server" />
+      <root url="file://$PROJECT_DIR$/../../../costaimage" />
+      <root url="file://$PROJECT_DIR$/../../../go-say-hello" />
+      <root url="file://$PROJECT_DIR$/../../../manigen" />
+      <root url="file://$PROJECT_DIR$/../../../concurrency" />
+      <root url="file://$PROJECT_DIR$/../../../amazon" />
+      <root url="file://$PROJECT_DIR$/../../../theokatzman-stage" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../crawler" />
+      <root url="file://$PROJECT_DIR$/../../../migrate-tests" />
+      <root url="file://$PROJECT_DIR$/../../../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../../juno" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../test-project" />
+      <root url="file://$PROJECT_DIR$/../../../labix.org" />
+      <root url="file://$PROJECT_DIR$/../../../tomweb" />
+      <root url="file://$PROJECT_DIR$/../../../googlemaps.github.io" />
+      <root url="file://$PROJECT_DIR$/../../../julianallen" />
+      <root url="file://$PROJECT_DIR$/../../../costafile" />
+      <root url="file://$PROJECT_DIR$/../../../harvestbox" />
+      <root url="file://$PROJECT_DIR$/../../../klynt-api" />
+      <root url="file://$PROJECT_DIR$/../../../theokatzman" />
+      <root url="file://$PROJECT_DIR$/../../../what-to-eat" />
+      <root url="file://$PROJECT_DIR$/../../../playground" />
+      <root url="file://$PROJECT_DIR$/../../../conflux" />
+      <root url="file://$PROJECT_DIR$/../../../launchpad.net" />
+      <root url="file://$PROJECT_DIR$/../../../stash.cqlcorp.net" />
+      <root url="file://$PROJECT_DIR$/../../../katzman" />
+      <root url="file://$PROJECT_DIR$/../../../android-gomobile" />
+      <root url="file://$PROJECT_DIR$/../../../rpc" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../labs-project-tracker" />
+      <root url="file://$PROJECT_DIR$/../../../static-server" />
+      <root url="file://$PROJECT_DIR$/../../../costaimage" />
+      <root url="file://$PROJECT_DIR$/../../../go-say-hello" />
+      <root url="file://$PROJECT_DIR$/../../../manigen" />
+      <root url="file://$PROJECT_DIR$/../../../concurrency" />
+      <root url="file://$PROJECT_DIR$/../../../amazon" />
+      <root url="file://$PROJECT_DIR$/../../../theokatzman-stage" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../crawler" />
+      <root url="file://$PROJECT_DIR$/../../../migrate-tests" />
+      <root url="file://$PROJECT_DIR$/../../../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../../juno" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
